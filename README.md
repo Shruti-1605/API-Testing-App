@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 API Tester Pro - Professional Edition
 
 A modern, professional API testing application built with Python and CustomTkinter.
@@ -102,3 +103,6 @@ Built with ❤️ using Python and CustomTkinter
 ---
 
 **Happy API Testing!** 🎉
+=======
+# API-Testing-App
+>>>>>>> a0c47b0e53d3ceecb5fa337166e1a32b2843a100
