@@ -1,0 +1,12 @@
+# API Tester Pro - Assets
+
+## Icons Directory
+- Place application icons here
+- Supported formats: .ico, .png, .svg
+- Recommended sizes: 16x16, 32x32, 64x64, 128x128
+
+## Future Assets
+- Logo files
+- Theme resources
+- Custom fonts
+- UI graphics
