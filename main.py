@@ -139,7 +139,7 @@ method_header.pack(pady=10, padx=10, fill="x")
 method_header.pack_propagate(False)
 
 ctk.CTkLabel(method_header, text="📋 Method", font=("Segoe UI", 14, "bold"), text_color=COLORS["dark"]).pack(expand=True)
-   
+    
 method_option = ctk.CTkOptionMenu(
     method_section, 
     values=["GET", "POST", "PUT", "DELETE", "PATCH"],
