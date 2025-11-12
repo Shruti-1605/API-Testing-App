@@ -101,7 +101,7 @@ api_tester/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](C:\Users\shruti chohan\OneDrive\Desktop\api_tester_project\images\Screenshot (66).png)
+![Home Page](images\Screenshot (66).png)
 
 ### ✅ Result Page
 ![Result Page](images\Screenshot (68).png)
