@@ -123,5 +123,7 @@ api_tester/
 
 ## 🎬 Project Demo video 
 
-[![Watch Demo](images/Screenshot%20(66).png)](https://github.com/Shruti-1605/API-Testing-App/blob/main/video/Screen%20Recording%202025-11-12%20122945.mp4)
+[![Watch Demo](## 🎬 Project Demo Video
+
+[Watch Demo](https://github.com/Shruti-1605/API-Testing-App/blob/main/Screen%20Recording%202025-11-12%20122945.mp4)
 
