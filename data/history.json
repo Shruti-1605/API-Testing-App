@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-11-12T10:27:00.825045",
+    "url": "https://dummyjson.com/products",
+    "method": "GET",
+    "headers": {},
+    "body": {},
+    "status_code": 200,
+    "response_time": 1.214,
+    "response_data": "{\n  \"products\": [\n    {\n      \"id\": 1,\n      \"title\": \"Essence Mascara Lash Princess\",\n      \"description\": \"The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.\",\n      \"category\": \"beauty\",\n      \"price\": 9.99,\n      \"discountPercentage\": 10.48,\n      \"rating\": 2.56,\n      \"stock\": 99,\n      \"tags\": [\n        \"beauty\",\n        \"mascara\"\n      ],\n      \"brand\": \"Essence\",..."
+  },
+  {
+    "timestamp": "2025-11-12T10:25:22.752891",
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "method": "GET",
+    "headers": {},
+    "body": {},
+    "status_code": 200,
+    "response_time": 0.825,
+    "response_data": "{\n  \"userId\": 1,\n  \"id\": 1,\n  \"title\": \"sunt aut facere repellat provident occaecati excepturi optio reprehenderit\",\n  \"body\": \"quia et suscipit\\nsuscipit recusandae consequuntur expedita et cum\\nreprehenderit molestiae ut ut quas totam\\nnostrum rerum est autem sunt rem eveniet architecto\"\n}"
+  },
+  {
     "timestamp": "2025-11-06T14:15:54.424930",
     "url": "https://jsonplaceholder.typicode.com/posts/1",
     "method": "GET",
