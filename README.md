@@ -1,11 +1,12 @@
-##Overview
+##Overview##
 
 API Tester Pro provides a complete toolkit for testing RESTful APIs with ease. It supports multiple HTTP methods, automatic history tracking, response visualization, and performance metrics.
 This application is ideal for developers, QA engineers, and anyone who wants to test and monitor APIs efficiently.
 
 --------------------------------------------------------------------------------
 
-##Features
+##Features##
+
 
 Professional UI: Modern card-based layout with Dark/Light themes.
 HTTP Methods: Supports GET, POST, PUT, DELETE, and PATCH.
@@ -18,7 +19,9 @@ Status Indicators: Color-coded visual cues for success, failure, or cleared requ
 
 --------------------------------------------------------------------------
 
-##Installation
+##Installation##
+
+
 Clone the repository
 git clone <repository-url>
 cd api_tester
@@ -29,7 +32,9 @@ python main.py
 
 ----------------------------------------------------------------------------
 
-##Usage
+##Usage##
+
+
 Enter the API endpoint in the input field.
 Select the HTTP method: GET, POST, PUT, DELETE, PATCH.
 Add headers manually or select Quick Headers presets.
@@ -40,7 +45,9 @@ Use the History, Dashboard, and Charts tabs for analytics.
 
 -----------------------------------------------------------------
 
-Project Structure
+##Project Structure##
+
+
 api_tester/
 ├── main.py                 # Main application entry point
 ├── ui/
@@ -54,7 +61,9 @@ api_tester/
 
 -------------------------------------------------------------------
 
-Keyboard Shortcuts
+##Keyboard Shortcuts##
+
+
 Shortcut	Action
 Ctrl + Enter / F5	Send Request
 Ctrl + T	Toggle Dark/Light Theme
@@ -63,14 +72,18 @@ Ctrl + D	Show Analytics Dashboard
 
 -----------------------------------------------------------------
 
-##Themes
+##Themes##
+
+
 Light Mode: Professional blue theme.
 Dark Mode: Modern dark interface.
 Toggle: Switch themes instantly with Ctrl + T.
 
 ------------------------------------------------------------
 
-##Analytics
+##Analytics##
+
+
 Request History: View the last 50 API requests.
 Response Charts: Visualize response times and trends.
 Dashboard Metrics: Shows success rate, average response time, and total requests.
@@ -78,7 +91,9 @@ Status Indicators: Green (success), Red (failure), Yellow (cleared).
 
 ---------------------------------------------------------------------
 
-##Technical Details
+##Technical Details##
+
+
 Framework: CustomTkinter
 Charts: Matplotlib
 Data Storage: JSON files
@@ -87,7 +102,9 @@ UI Design: Card-based professional layout
 
 --------------------------------------------------------------------
 
-##Requirements
+##Requirements##
+
+
 Python 3.7+
 CustomTkinter >= 5.2.0
 Requests >= 2.31.0
