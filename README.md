@@ -118,3 +118,10 @@ api_tester/
 
 ### 💾 Save
 ![Save](images/Screenshot%20%2872%29.png)
+
+
+
+## 🎬 Project Demo video 
+
+[![Watch Demo](images/Screenshot%20(66).png)](https://github.com/Shruti-1605/API-Testing-App/blob/main/video/Screen%20Recording%202025-11-12%20122945.mp4)
+
