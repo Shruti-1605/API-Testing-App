@@ -1,8 +1,9 @@
-Overview
+##Overview
 
 API Tester Pro provides a complete toolkit for testing RESTful APIs with ease. It supports multiple HTTP methods, automatic history tracking, response visualization, and performance metrics.
-
 This application is ideal for developers, QA engineers, and anyone who wants to test and monitor APIs efficiently.
+
+--------------------------------------------------------------------------------
 
 ##Features
 
@@ -15,6 +16,8 @@ Quick Headers: Preset headers for JSON, XML, and Form Data.
 Export Functionality: Save API responses and history for later reference.
 Status Indicators: Color-coded visual cues for success, failure, or cleared requests.
 
+--------------------------------------------------------------------------
+
 ##Installation
 Clone the repository
 git clone <repository-url>
@@ -24,6 +27,8 @@ pip install -r requirements.txt
 Run the application
 python main.py
 
+----------------------------------------------------------------------------
+
 ##Usage
 Enter the API endpoint in the input field.
 Select the HTTP method: GET, POST, PUT, DELETE, PATCH.
@@ -32,6 +37,8 @@ Enter the request body for POST, PUT, or PATCH methods.
 Click Send Request.
 View the response panel for color-coded status and data.
 Use the History, Dashboard, and Charts tabs for analytics.
+
+-----------------------------------------------------------------
 
 Project Structure
 api_tester/
@@ -45,6 +52,8 @@ api_tester/
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 
+-------------------------------------------------------------------
+
 Keyboard Shortcuts
 Shortcut	Action
 Ctrl + Enter / F5	Send Request
@@ -52,10 +61,14 @@ Ctrl + T	Toggle Dark/Light Theme
 Ctrl + H	Show Request History
 Ctrl + D	Show Analytics Dashboard
 
+-----------------------------------------------------------------
+
 ##Themes
 Light Mode: Professional blue theme.
 Dark Mode: Modern dark interface.
 Toggle: Switch themes instantly with Ctrl + T.
+
+------------------------------------------------------------
 
 ##Analytics
 Request History: View the last 50 API requests.
@@ -63,12 +76,16 @@ Response Charts: Visualize response times and trends.
 Dashboard Metrics: Shows success rate, average response time, and total requests.
 Status Indicators: Green (success), Red (failure), Yellow (cleared).
 
+---------------------------------------------------------------------
+
 ##Technical Details
 Framework: CustomTkinter
 Charts: Matplotlib
 Data Storage: JSON files
 HTTP Client: Requests library
 UI Design: Card-based professional layout
+
+--------------------------------------------------------------------
 
 ##Requirements
 Python 3.7+
@@ -83,6 +100,8 @@ Export to Postman
 API Documentation Generator
 Performance Testing
 Authentication Support
+
+-------------------------------------------------------------------------
 
 ## 📸 Screenshots
 
