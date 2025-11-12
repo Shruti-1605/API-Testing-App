@@ -96,28 +96,25 @@ api_tester/
 - [ ] Performance Testing
 - [ ] Authentication Support
 
-## Screenshots##
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](images\Screenshot (66).png)
+![Home Page](images/Screenshot (66).png)
 
 ### ✅ Result Page
-![Result Page](images\Screenshot (68).png)
+![Result Page](images/Screenshot (68).png)
 
-### white theme UI
-![Result Page](images\Screenshot (67).png)
+### 🤍 White Theme UI
+![White Theme](images/Screenshot (67).png)
 
-### Charts
-![Result Page](images\Screenshot (67).png))
+### 📊 Charts
+![Charts](images/Screenshot (69).png)
 
-### Dasbord
-![Result Page](images\Screenshot (67).png)
+### 🧭 Dashboard
+![Dashboard](images/Screenshot (70).png)
 
-### History API
-![Result Page](images\Screenshot (71).png)
+### 🕓 History API
+![History API](images/Screenshot (71).png)
 
-### save 
-![Result Page](images\Screenshot (72).png)
-
+### 💾 Save
+![Save](images/Screenshot (72).png)
