@@ -96,15 +96,28 @@ api_tester/
 - [ ] Performance Testing
 - [ ] Authentication Support
 
-## 👨‍💻 Developer
+## Screenshots##
 
-Built with ❤️ using Python and CustomTkinter
+## 📸 Screenshots
 
----
+### 🏠 Home Page
+![Home Page](images\Screenshot (66).png)
 
-**Happy API Testing!** 🎉
-=======
-# API-Testing-App
->>>>>>> a0c47b0e53d3ceecb5fa337166e1a32b2843a100
+### ✅ Result Page
+![Result Page](images\Screenshot (68).png)
 
+### white theme UI
+![Result Page](images\Screenshot (67).png)
+
+### Charts
+![Result Page](images\Screenshot (67).png))
+
+### Dasbord
+![Result Page](images\Screenshot (67).png)
+
+### History API
+![Result Page](images\Screenshot (71).png)
+
+### save 
+![Result Page](images\Screenshot (72).png)
 
