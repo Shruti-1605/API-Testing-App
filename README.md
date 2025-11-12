@@ -1,100 +1,88 @@
-<<<<<<< HEAD
-# 🚀 API Tester Pro - Professional Edition
+Overview
 
-A modern, professional API testing application built with Python and CustomTkinter.
+API Tester Pro provides a complete toolkit for testing RESTful APIs with ease. It supports multiple HTTP methods, automatic history tracking, response visualization, and performance metrics.
 
-## ✨ Features
+This application is ideal for developers, QA engineers, and anyone who wants to test and monitor APIs efficiently.
 
-- **Professional UI**: Modern side-by-side layout with dark/light theme
-- **API Testing**: Support for GET, POST, PUT, DELETE, PATCH methods
-- **Request History**: Automatic saving and viewing of API requests
-- **Analytics Dashboard**: Visual metrics and performance analytics
-- **Response Charts**: Interactive charts showing response times
-- **Quick Headers**: Preset headers for JSON, XML, Form Data
-- **Export Functionality**: Save responses and history
-- **Status Indicators**: Color-coded success/failure indicators
+##Features
 
-## 🛠️ Installation
+Professional UI: Modern card-based layout with Dark/Light themes.
+HTTP Methods: Supports GET, POST, PUT, DELETE, and PATCH.
+Request History: Automatically save and view previous requests.
+Analytics Dashboard: Monitor performance metrics, success rates, and response times.
+Response Charts: Visual graphs for analyzing API responses.
+Quick Headers: Preset headers for JSON, XML, and Form Data.
+Export Functionality: Save API responses and history for later reference.
+Status Indicators: Color-coded visual cues for success, failure, or cleared requests.
 
-1. **Clone or Download** the project
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Application**:
-   ```bash
-   python main.py
-   ```
+##Installation
+Clone the repository
+git clone <repository-url>
+cd api_tester
+Install dependencies
+pip install -r requirements.txt
+Run the application
+python main.py
 
-## 📁 Project Structure
+##Usage
+Enter the API endpoint in the input field.
+Select the HTTP method: GET, POST, PUT, DELETE, PATCH.
+Add headers manually or select Quick Headers presets.
+Enter the request body for POST, PUT, or PATCH methods.
+Click Send Request.
+View the response panel for color-coded status and data.
+Use the History, Dashboard, and Charts tabs for analytics.
 
-```
+Project Structure
 api_tester/
-├── main.py                 # Main application file
+├── main.py                 # Main application entry point
 ├── ui/
-│   └── main_window.py      # UI components (future modular design)
+│   └── main_window.py      # UI components (modular design)
 ├── data/
 │   └── history.json        # Request history storage
 ├── assets/
 │   └── icons/              # Application icons
 ├── requirements.txt        # Python dependencies
-└── README.md              # Project documentation
-```
+└── README.md               # Project documentation
 
-## 🎯 Usage
+Keyboard Shortcuts
+Shortcut	Action
+Ctrl + Enter / F5	Send Request
+Ctrl + T	Toggle Dark/Light Theme
+Ctrl + H	Show Request History
+Ctrl + D	Show Analytics Dashboard
 
-1. **Enter API URL** in the endpoint field
-2. **Select HTTP Method** (GET, POST, PUT, DELETE, PATCH)
-3. **Add Headers** manually or use Quick Headers presets
-4. **Add Request Body** for POST/PUT/PATCH requests
-5. **Click Send Request** to test the API
-6. **View Response** in the right panel with color-coded status
-7. **Access History, Charts, and Dashboard** for analytics
+##Themes
+Light Mode: Professional blue theme.
+Dark Mode: Modern dark interface.
+Toggle: Switch themes instantly with Ctrl + T.
 
-## ⌨️ Keyboard Shortcuts
+##Analytics
+Request History: View the last 50 API requests.
+Response Charts: Visualize response times and trends.
+Dashboard Metrics: Shows success rate, average response time, and total requests.
+Status Indicators: Green (success), Red (failure), Yellow (cleared).
 
-- `Ctrl+Enter` or `F5` - Send Request
-- `Ctrl+T` - Toggle Theme (Dark/Light)
-- `Ctrl+H` - Show History
-- `Ctrl+D` - Show Dashboard
+##Technical Details
+Framework: CustomTkinter
+Charts: Matplotlib
+Data Storage: JSON files
+HTTP Client: Requests library
+UI Design: Card-based professional layout
 
-## 🎨 Themes
-
-- **Light Mode**: Professional blue theme
-- **Dark Mode**: Modern dark interface
-- **Toggle**: Instant theme switching
-
-## 📊 Analytics Features
-
-- **Request History**: Last 50 requests with details
-- **Response Charts**: Visual response time analysis
-- **Dashboard Metrics**: Success rate, average time, total requests
-- **Status Indicators**: Green (success), Red (failure), Yellow (cleared)
-
-## 🔧 Technical Details
-
-- **Framework**: CustomTkinter (Modern Tkinter)
-- **Charts**: Matplotlib integration
-- **Data Storage**: JSON files
-- **HTTP Client**: Requests library
-- **UI Design**: Professional card-based layout
-
-## 📝 Requirements
-
-- Python 3.7+
-- CustomTkinter >= 5.2.0
-- Requests >= 2.31.0
-- Matplotlib >= 3.5.0
-
-## 🚀 Future Enhancements
-
-- [ ] API Collections
-- [ ] Environment Variables
-- [ ] Request Templates
-- [ ] Export to Postman
-- [ ] API Documentation Generator
-- [ ] Performance Testing
-- [ ] Authentication Support
+##Requirements
+Python 3.7+
+CustomTkinter >= 5.2.0
+Requests >= 2.31.0
+Matplotlib >= 3.5.0
+Future Enhancements
+API Collections
+Environment Variables
+Request Templates
+Export to Postman
+API Documentation Generator
+Performance Testing
+Authentication Support
 
 ## 📸 Screenshots
 
