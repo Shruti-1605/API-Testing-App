@@ -99,22 +99,22 @@ api_tester/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](images/Screenshot (66).png)
+![Home Page](images/Screenshot%20%2866%29.png)
 
 ### ✅ Result Page
-![Result Page](images/Screenshot (68).png)
+![Result Page](images/Screenshot%20%2868%29.png)
 
 ### 🤍 White Theme UI
-![White Theme](images/Screenshot (67).png)
+![White Theme](images/Screenshot%20%2867%29.png)
 
 ### 📊 Charts
-![Charts](images/Screenshot (69).png)
+![Charts](images/Screenshot%20%2869%29.png)
 
 ### 🧭 Dashboard
-![Dashboard](images/Screenshot (70).png)
+![Dashboard](images/Screenshot%20%2870%29.png)
 
 ### 🕓 History API
-![History API](images/Screenshot (71).png)
+![History API](images/Screenshot%20%2871%29.png)
 
 ### 💾 Save
-![Save](images/Screenshot (72).png)
+![Save](images/Screenshot%20%2872%29.png)
