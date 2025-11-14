@@ -47,7 +47,7 @@ Use the History, Dashboard, and Charts tabs for analytics.
 
 ##Project Structure##
 
-'''
+```
 
 api_tester/
 ├── main.py                 # Main application entry point
@@ -61,7 +61,7 @@ api_tester/
 └── README.md               # Project documentation
 
 
-'''
+```
 -------------------------------------------------------------------
 
 ##Keyboard Shortcuts##
