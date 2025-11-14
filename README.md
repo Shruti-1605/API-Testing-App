@@ -48,6 +48,7 @@ Use the History, Dashboard, and Charts tabs for analytics.
 ##Project Structure##
 
 '''
+
 api_tester/
 ├── main.py                 # Main application entry point
 ├── ui/
@@ -58,6 +59,7 @@ api_tester/
 │   └── icons/              # Application icons
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
+
 
 '''
 -------------------------------------------------------------------
